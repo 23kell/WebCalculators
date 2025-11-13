@@ -68,7 +68,7 @@ public class Fraction implements Comparable<Fraction> {
         }
         if(denominator < 0){
             numerator *= -1;
-            denominator = Math.abs(denominator);
+            denominator *= -1;
         }
         this.denominator = denominator;
     }

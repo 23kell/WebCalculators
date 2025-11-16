@@ -9,6 +9,7 @@
 <ul>
     <li><a href="hello">My First Calculator</a></li>
     <li><a href="fraction">Marc's Fraction Calculator</a></li>
+    <li><a href="pt">Emilia's Pythagorean Theorem Calculator</a></li>
 </ul>
 </body>
 </html>

@@ -23,7 +23,7 @@
                     <input type="text" class="form-control" name="denominator1" value="${denominator1}">
                 </div>
             </div>
-            <div class="col-1 d-flex justify-content-center display-3">
+            <div class="col-1 d-flex justify-content-center align-items-center display-3">
                 <select class="form-select form-select-lg" name="operator">
                     <option <c:if test="${operator eq 'add'}">selected</c:if> value="add">+</option>
                     <option <c:if test="${operator eq 'subtract'}">selected</c:if> value="subtract">-</option>
